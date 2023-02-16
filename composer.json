@@ -1,5 +1,5 @@
 {
-    "name": "laminas/laminas-console",
+    "name": "notarisdossier/laminas-console",
     "description": "Build console applications using getopt syntax or routing, complete with prompts",
     "license": "BSD-3-Clause",
     "keywords": [
