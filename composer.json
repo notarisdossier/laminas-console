@@ -25,8 +25,8 @@
         }
     },
     "require": {
-        "php": "^5.6 || ^7.0 || ^8.2",
-        "laminas/laminas-stdlib": "3.14.*",
+        "php": "^5.6 || ^7.0 || ^8.2 || ^8.3",
+        "laminas/laminas-stdlib": "3.14.* || 3.18.* || 3.19.*",
         "laminas/laminas-zendframework-bridge": "^1.0"
     },
     "require-dev": {
